@@ -104,9 +104,9 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE) | 3 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 11 | No Limi
+   BE | 15 | No Limi
    IR | 2 | No Limit
 
 ### Offseason Rosters (Post-draft Rosters) ###
@@ -116,7 +116,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE) | 3 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 15 | No Limi
    IR | 2 | No Limit
@@ -153,9 +153,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
+- Picks 1-6 will be assigned in inverse order of the MaxPF regular season standings (note this uses potential points).
+- Picks 7-8 will be assigned in inverse order of the MaxPF regular season standings by the two teams who lost in the first round of the playoffs.
+- Picks 9-12 will be the inverse of the semi final bracket final standings.
+- An additional pick (2.13) will be awarded to the winner of the consolation bracket
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.

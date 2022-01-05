@@ -61,7 +61,7 @@ __Chris M__
 #### Nomination ####
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
-- At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass.
+- At the season end summit, we will vote on any nominated proposals. 8/12 votes is enough to trigger a rule change with a year delay. In order to bypass the year delay 10/12 votes are needed.
 #### Year Delay ####
 -  Any vote that fails to hit 10/12 will not go into effect until the following year. 
 <br>

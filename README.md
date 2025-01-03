@@ -147,7 +147,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
-- Trade deadline begins as soon as the first playoff game starts.
+- There is NO trade deadline
 - Draft picks up to 2 years in the future are tradable.
 - You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2022, then you must have paid the league dues for the 22 season.
 <br><br>
@@ -195,7 +195,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ### Championship Bracket ###
 - The two teams with the best regular season records will be assigned to the top two seeds, and receive a first round bye.
 - The next four teams will be assigned their playoff seeding spot based on regular season record.
-- The seedings will reseed so that the number 1 seed gets the best possible semi-final matchup.
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
